@@ -33,7 +33,7 @@
 
         <div class="menu">
           <ul>
-            <li><a href="viewallblogs.jsp" class="active">Questions</a></li>
+            <li><a href="index.jsp" class="active">Questions</a></li>
             <li><a href="addblog.jsp">Ask Questions</a></li>
             <li><a href="#"> Users </a></li>
             <li><a href="contact.html" > Contact Us</a></li>
