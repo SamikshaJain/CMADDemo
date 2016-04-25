@@ -54,7 +54,7 @@
         <div class="right">
           <h2> Sidebar Menu</h2>
          <ul>
-            <li><a href="viewallblogs.jsp">Home</a></li>
+            <li><a href="viewallblogs.jsp">Test</a></li>
             <li><a href="login.jsp">Login</a></li>
             <li><a href="signup.jsp">Signup</a></li>
             <li><a href="addblog.jsp">Ask Questions</a></li>
